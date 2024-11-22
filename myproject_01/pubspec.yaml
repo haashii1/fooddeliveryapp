@@ -1,0 +1,34 @@
+name: myproject_01
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets\Screenshot 2024-10-07 104051.png
+    - assets\Screenshot 2024-10-08 111819.png
+    - assets\InShot_20241031_113540209.jpg 
+    - assets\delicious-burgers-studio_23-2150902146-removebg-preview.png
+    - assets\top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158-removebg-preview.png
+    - assets\pizza-01-icon-2048x1751-sxphzhhe.png
+    - assets\delicious-multilayered-sandwich-with-ham-cheese-tomato-lettuce-yellow-background_1282444-1978-removebg-preview.png
+    - assets\1000044981.jpg
+    - assets\1000045560.jpg
+    - assets\1000045561.jpg
+    - assets\1000045562.jpg
+    - assets\chicken-biryani-plate-isolated-white-background-delicious-spicy-biryani-isolated_667286-5794.jpg
+    - assets\c4ee15bc22fa3a63fce34fd4017026e4-removebg-preview.png
+    - assets\images__2_-removebg-preview.png
